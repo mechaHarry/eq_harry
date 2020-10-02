@@ -3,7 +3,7 @@
 For Windows users, install Equalizer APO and add an 'include' filter that selects any textfile in this repo.
 For all other platforms, if there exists a parametric eq either system wide or application wide, these values can be placed in as Freq, Deci, and Q Values manually.
 
-These settings per headphone were made using my ears perception of multiple slow sweeps through the sound spectrum, honing in on tinnitus inducing frequencies or harsh/coarse/offensive/unbalanced frequencies made by the particular headphones.
+These settings per headphone were made using my ears' perception of multiple slow sweeps through the sound spectrum, honing in on tinnitus inducing frequencies or harsh/coarse/offensive/unbalanced frequencies made by the particular headphones.
 
 The settings are then test run through a wide variety of musics with different masterings to help fine-tune the Deci and Q Values of any specific frequencies, as well as optionally placed high or low pass filters to adjust for bass fullness or treble air, to taste.
 
