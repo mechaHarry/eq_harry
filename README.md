@@ -1,4 +1,4 @@
-# audio_eq_harry
+# eq_harry
 
 For Windows users, install Equalizer APO and add an 'include' filter that selects any textfile in this repo.
 For all other platforms, if there exists a parametric eq either system wide or application wide, these values can be placed in as Freq, Deci, and Q Values manually.
@@ -11,14 +11,14 @@ The objective is to remove offensive areas of the headphone's capabilities while
 
 Disclaimer: The settings are adjusted to fit how my ears, ear canals, and HRTF perceive and are affected by the headphones; this can be different from person to person, especially tinnitus inducing frequencies or sensitive frequencies.
 
-[TODO]:
+[*TODO*]
 
-Edifier P841/H840
-Final Audio e2000
-Panasonic RP-HJE120 ErgoFit
-Apple Earbuds (Second Generation)
-Apple Earpods (3.5mm Jack)
-Sennheiser CX2.00
-Sennheiser CX1.00
-Massdrop x E-MU Purpleheart
-KZ ZSE
+- Edifier P841/H840
+- Final Audio e2000
+- Panasonic RP-HJE120 ErgoFit
+- Apple Earbuds (Second Generation)
+- Apple Earpods (3.5mm Jack)
+- Sennheiser CX2.00
+- Sennheiser CX1.00
+- Massdrop x E-MU Purpleheart
+- KZ ZSE
