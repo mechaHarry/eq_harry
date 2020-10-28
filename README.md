@@ -1,14 +1,24 @@
 # eq_harry
 
-For Windows users, install Equalizer APO and add an 'include' filter that selects any textfile in this repo.
+For Windows users, install Equalizer APO and add an 'include' filter that selects any config in this repo.
 
 For all other platforms, if there exists a parametric eq either system wide or application wide, these values can be placed in as Freq, Deci, and Q Values manually.
 
-These settings per headphone were made using sweeps through the sound spectrum, honing in on tinnitus inducing frequencies or harsh frequencies made by the particular headphones.
+These eq per headphone are made by first slowly sweeping through the sound spectrum, honing in on tinnitus inducing frequencies or harsh frequencies made by the particular headphones.
 
-The settings are then test run through a wide variety of musics with different masterings to help fine-tune the Deci and Q Values of any specific frequencies, as well as optionally placed high or low pass filters to adjust for bass fullness or treble air, to taste.
+The particular tooling I use to generate sine waves is found at https://www.szynalski.com/tone-generator/
 
-The objective is to remove offensive areas of the headphone's frequency response. In this way, the EQ are considered as signal attenuators, rather than attempts to boost certain parts of the signature.
+The eq are then tested through a wide variety of music with different mastering (treble heavy, bass heavy, acoustic, vocal, spacious, intimate, etc.) to help fine-tune the Deci and Q Values of any specific frequencies, as well as optionally place any high or low pass filters to adjust bass or treble, to taste.
+
+The objective is to remove any offensive areas found within the headphone's frequency response.
+
+The only way any part of the signature can be 'boosted' is by result of being at db-0 when other frequencies are in negative zone.
+
+Unless any particular config does not have a frequency contacting db-0, a positive preamp should not used, unless the user enjoys clipping or distorted sound.
+
+A negative preamp is perfectly fine if the user's amplifier proves to be too loud to listen comfortably to after applying any eq.
+
+It is better to lose bit depth or volume level than to gain hearing damage or tinnitus in the long run.
 
 Disclaimer: The settings are adjusted to fit how my ears, ear canals, and HRTF perceive and are affected by the headphones; this can be different from person to person, especially tinnitus inducing frequencies or sensitive frequencies.
 
