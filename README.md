@@ -1,6 +1,6 @@
 # eq_harry
 
-For Windows users, install Equalizer APO and add an 'include' filter that selects any config in this repo.
+For Windows users, install Equalizer APO and add an 'include' filter that selects any eq in this repo.
 
 For all other platforms, if there exists a parametric eq either system wide or application wide, these values can be placed in as Freq, Deci, and Q Values manually.
 
@@ -14,7 +14,7 @@ The objective is to remove any offensive areas found within the headphone's freq
 
 The only way any part of the signature can be 'boosted' is by result of being at db-0 when other frequencies are in negative zone.
 
-Unless any particular config does not have a frequency contacting db-0, a positive preamp should not used, unless the user enjoys clipping or distorted sound.
+Unless any particular eq does not have a frequency contacting db-0, a positive preamp should not used, unless the user enjoys clipping or distorted sound.
 
 A negative preamp is perfectly fine if the user's amplifier proves to be too loud to listen comfortably to after applying any eq.
 
