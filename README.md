@@ -7,7 +7,7 @@ These settings per headphone were made using sweeps through the sound spectrum, 
 
 The settings are then test run through a wide variety of musics with different masterings to help fine-tune the Deci and Q Values of any specific frequencies, as well as optionally placed high or low pass filters to adjust for bass fullness or treble air, to taste.
 
-The objective is to remove offensive areas of the headphone's capabilities while preserving or leaving untouched the areas that have no fault. In this way, the EQ are considered a signal attenuator or enhancement, rather than a complete change in signature or taste.
+The objective is to remove offensive areas of the headphone's frequency response. In this way, the EQ are considered as signal attenuators, rather than attempts to boost certain parts of the signature.
 
 Disclaimer: The settings are adjusted to fit how my ears, ear canals, and HRTF perceive and are affected by the headphones; this can be different from person to person, especially tinnitus inducing frequencies or sensitive frequencies.
 
