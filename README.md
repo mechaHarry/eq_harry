@@ -28,12 +28,14 @@ My favorite 64bit plugin is https://resonic.at/tools/bs2br
 
 [*TODO*]
 
-- Edifier P841/H840
-- Final Audio e2000
-- Panasonic RP-HJE120 ErgoFit
-- Apple Earbuds (Second Generation)
-- Apple Earpods (3.5mm Jack)
-- Sennheiser CX2.00
-- Sennheiser CX1.00
-- Massdrop x E-MU Purpleheart [Done]
-- KZ ZSE
+    [ ] Edifier P841/H840
+    [ ] Final Audio e2000
+    [ ] Panasonic RP-HJE120 ErgoFit
+    [✔️] Panasonic RP-HT21
+    [ ] Apple Earbuds (Second Generation)
+    [ ] Apple Earpods (3.5mm Jack)
+    [ ] Sennheiser CX2.00
+    [ ] Sennheiser CX1.00
+    [✔️] Massdrop x E-MU Purpleheart
+    [ ] KZ ZSE
+    [✔️] Sony MDR-V6
