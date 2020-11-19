@@ -33,7 +33,7 @@ My favorite 64bit plugin is https://resonic.at/tools/bs2br
     [ ] Panasonic RP-HJE120 ErgoFit
     [✔️] Panasonic RP-HT21
     [ ] Apple Earbuds (Second Generation)
-    [ ] Apple Earpods (3.5mm Jack)
+    [✔] Apple Earpods (3.5mm Jack)
     [ ] Sennheiser CX2.00
     [ ] Sennheiser CX1.00
     [✔️] Massdrop x E-MU Purpleheart
