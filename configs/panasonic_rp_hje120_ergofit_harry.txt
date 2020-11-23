@@ -14,5 +14,5 @@ Filter: ON PK Fc 6900 Hz Gain -4.5 dB Q 5.0917
 Filter: ON PK Fc 8000 Hz Gain -2 dB Q 0.3333
 Filter: ON PK Fc 11300 Hz Gain -4 dB Q 6.1782
 Filter: ON LPQ Fc 13500 Hz Q 0.77
-Filter: ON LS Fc 250 Hz Gain -13 dB
+Filter: ON LS Fc 250 Hz Gain -10 dB
 Preamp: 1.7 dB
