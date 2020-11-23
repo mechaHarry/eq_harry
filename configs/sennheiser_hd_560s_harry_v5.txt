@@ -1,0 +1,15 @@
+Filter: ON PK Fc 650 Hz Gain -2.9 dB Q 2.9707
+Filter: ON PK Fc 800 Hz Gain -2.7 dB Q 4.7518
+Filter: ON PK Fc 1800 Hz Gain -8 dB Q 5.0683
+Filter: ON PK Fc 2000 Hz Gain -2.3 dB Q 7.1263
+Filter: ON PK Fc 2200 Hz Gain -3.2 dB Q 4.73
+Filter: ON PK Fc 2400 Hz Gain -4.5 dB Q 6.6506
+Filter: ON PK Fc 2600 Hz Gain -2.1 dB Q 21.3243
+Filter: ON PK Fc 2800 Hz Gain -5 dB Q 8.2578
+Filter: ON PK Fc 3000 Hz Gain -3 dB Q 18.7445
+Filter: ON PK Fc 4000 Hz Gain -6.9 dB Q 5.1388
+Filter: ON PK Fc 4400 Hz Gain -5.6 dB Q 5.6867
+Filter: ON PK Fc 5000 Hz Gain -4.5 dB Q 5.5829
+Filter: ON PK Fc 5200 Hz Gain -2.8 dB Q 5.2585
+Filter: ON PK Fc 5400 Hz Gain -3 dB Q 4.1387
+Filter: ON PK Fc 8000 Hz Gain -4 dB Q 5.4058
