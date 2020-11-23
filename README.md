@@ -30,7 +30,7 @@ My favorite 64bit plugin is https://resonic.at/tools/bs2br
 
     [ ] Edifier P841/H840
     [ ] Final Audio e2000
-    [ ] Panasonic RP-HJE120 ErgoFit
+    [✔️] Panasonic RP-HJE120 ErgoFit
     [✔️] Panasonic RP-HT21
     [✔️] Apple Earbuds (Second Generation)
     [✔️] Apple Earpods (3.5mm Jack)
