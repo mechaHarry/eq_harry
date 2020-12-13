@@ -38,5 +38,5 @@ My favorite 64bit plugin is https://resonic.at/tools/bs2br
     [ ] Sennheiser CX2.00
     [ ] Sennheiser CX1.00
     [✔️] Massdrop x E-MU Purpleheart
-    [ ] KZ ZSE
+    [✔] KZ ZSE
     [✔️] Sony MDR-V6
