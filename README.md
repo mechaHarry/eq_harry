@@ -3,8 +3,11 @@
 ### Tooling:
 
 https://www.szynalski.com/tone-generator/
+
 https://sourceforge.net/projects/equalizerapo/
+
 https://resonic.at/tools/bs2br
+
 https://neutroncode.com/
 
 ### Usage:
