@@ -2,13 +2,17 @@
 
 ### Tooling:
 
-https://www.szynalski.com/tone-generator/
+Use this to help pinpoint frequencies for your eq.
+* https://www.szynalski.com/tone-generator/
 
-https://sourceforge.net/projects/equalizerapo/
+Use this to apply the eq to your operation system.
+* https://sourceforge.net/projects/equalizerapo/
 
-https://resonic.at/tools/bs2br
+Optionally use this to lessen hard panned stereo fatigue.
+* https://resonic.at/tools/bs2br
 
-https://neutroncode.com/
+Bonus as my favorite Android music player.
+* https://neutroncode.com/
 
 ### Usage:
 
