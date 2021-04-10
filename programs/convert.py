@@ -9,16 +9,36 @@ def main():
 
     for band in eq_original:
 
-        freq = 0
-        gain = 0
-        qval = 0
+        if band:
 
-        band_meta = band.strip().split(' ')
+            # if band type is Peak,
+            if 'PK' in band:
 
-        freq = band_meta[4]
-        gain = band_meta[7]
-        qval = band_meta[10]
+                freq = 0
+                gain = 0
+                qval = 0
 
-        print('<band type="PEAKEQ" gain="' + gain + '" freq="' + freq + '" Q="' + qval + '" />')
+                band_meta = band.strip().split(' ')
+
+                freq = band_meta[4]
+                gain = band_meta[7]
+                qval = band_meta[10]
+
+                print('<band type="PEAKEQ" gain="' + gain + '" freq="' + freq + '" Q="' + qval + '" />')
+
+            #  if band type is Low Pass,
+            elif 'LPQ' in band:
+
+                freq = 0
+                gain = 0
+                qval = 0
+
+                band_meta = band.strip().split(' ')
+
+                freq = band_meta[4]
+                gain = '-3'
+                qval = band_meta[7]
+
+                print('<band type="LOWPASS" gain="' + gain + '" freq="' + freq + '" Q="' + qval + '" />')
 
 main()
