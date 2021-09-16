@@ -5,8 +5,13 @@
 Use this to help pinpoint frequencies for your eq.
 * https://www.szynalski.com/tone-generator/
 
-Use this to apply the eq to your operation system.
-* https://sourceforge.net/projects/equalizerapo/
+System Wide Parametric EQ Platforms:
+* Windows
+  - https://sourceforge.net/projects/equalizerapo/
+* Android
+  - https://play.google.com/store/apps/details?id=com.maxmpz.equalizer
+* macOS
+  - https://rogueamoeba.com/soundsource/
 
 Optionally use this to lessen hard panned stereo fatigue.
 * https://resonic.at/tools/bs2br
